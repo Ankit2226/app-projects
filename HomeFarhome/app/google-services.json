@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "492442640391",
+    "project_id": "home-far-home",
+    "storage_bucket": "home-far-home.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492442640391:android:166f5e5c40728659c00aa2",
+        "android_client_info": {
+          "package_name": "com.signup.homefarhome"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpN2yZ1byk1vN602vpWQ5K9YJpu-9Lo-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
